@@ -9,5 +9,6 @@ Ruby on Rails5 Ⅱ
 <br><br><br>
 
 4/13<br>
-道場レッスン
-Ruby on Rails5 I
+
+Ruby on Rails5 I　道場レッスン
+Ruby on Rails5 Ⅳ & 復習
