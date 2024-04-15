@@ -21,3 +21,5 @@ Ruby on Rails5 Ⅴ
 
 Ruby on Rails5 Ⅵ<br>
 Ruby on Rails5 Ⅶ
+<br>
+Ruby on Rails5 Ⅱ理解
