@@ -2,14 +2,21 @@
 4/7
 
 Ruby on Rails5 I
-<br><br><br>
+<br><br>
 4/9<br>
 
 Ruby on Rails5 Ⅱ
-<br><br><br>
+
+<br>
 
 4/13<br>
 
 Ruby on Rails5 I　道場レッスン<br>
 Ruby on Rails5 Ⅳ & 復習<br>
-Ruby on Rails5 Ⅴ<br>
+Ruby on Rails5 Ⅴ
+
+<br>
+
+4/15<br>
+
+Ruby on Rails5 Ⅵ<br>
