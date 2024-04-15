@@ -20,3 +20,4 @@ Ruby on Rails5 Ⅴ
 4/15<br>
 
 Ruby on Rails5 Ⅵ<br>
+Ruby on Rails5 Ⅶ
