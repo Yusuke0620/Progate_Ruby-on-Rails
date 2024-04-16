@@ -20,6 +20,11 @@ Ruby on Rails5 Ⅴ
 4/15<br>
 
 Ruby on Rails5 Ⅵ<br>
-Ruby on Rails5 Ⅶ
-<br>
+Ruby on Rails5 Ⅶ<br>
 Ruby on Rails5 Ⅱ理解
+
+4/16<br>
+
+Ruby on Rails5 Ⅲ理解<br>
+Ruby on Rails5 Ⅳ理解<br>
+Ruby on Rails5 Ⅴ理解※まだ<br>
