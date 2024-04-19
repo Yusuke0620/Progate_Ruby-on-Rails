@@ -28,3 +28,9 @@ Ruby on Rails5 Ⅱ理解
 Ruby on Rails5 Ⅲ理解<br>
 Ruby on Rails5 Ⅳ理解<br>
 Ruby on Rails5 Ⅴ理解※まだ<br>
+
+<br>
+
+4/19<br>
+
+
