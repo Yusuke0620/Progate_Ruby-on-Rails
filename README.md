@@ -37,3 +37,4 @@ Ruby on Rails5 Ⅴ理解※まだ<br>
 
 4/20<br>
 
+Ruby on Rails5 Ⅷ<br>
