@@ -49,3 +49,4 @@ Ruby on Rails5 I、II、III、道場レッスン
 5/1<br>
 
 Ruby on Rails5 道場レッスン<br>
+Ruby on Rails5 VI<br>
