@@ -50,3 +50,7 @@ Ruby on Rails5 I、II、III、道場レッスン
 
 Ruby on Rails5 道場レッスン<br>
 Ruby on Rails5 VI<br>
+
+<br>
+
+5/1<br>
