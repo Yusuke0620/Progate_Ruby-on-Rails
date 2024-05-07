@@ -59,4 +59,5 @@ Ruby on Rails5 Ⅶ<br>
 <br>
 
 5/7<br>
-Ruby on Rails5 VIII
+Ruby on Rails5 VIII<br>
+Ruby on Rails5 Ⅸ<br>
