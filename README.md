@@ -54,4 +54,9 @@ Ruby on Rails5 VI<br>
 <br>
 
 5/3<br>
-Ruby on Rails5 Ⅶ
+Ruby on Rails5 Ⅶ<br>
+
+<br>
+
+5/7<br>
+Ruby on Rails5 VIII
