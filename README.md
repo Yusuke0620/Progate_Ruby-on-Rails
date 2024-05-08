@@ -68,5 +68,4 @@ Ruby on Rails5 Ⅸ<br>
 5/8<br>
 Ruby on Rails5 Ⅹ<br>
 
-
 <br>
