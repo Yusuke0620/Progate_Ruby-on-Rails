@@ -68,5 +68,9 @@ Ruby on Rails5 Ⅸ<br>
 5/8<br>
 Ruby on Rails5 Ⅹ<br>
 Ruby on Rails5 Ⅺ<br>
+Ruby on Rails5 道場レッスンⅠ
 
 <br>
+
+5/9<br>
+Ruby on Rails5 道場レッスンⅡ
