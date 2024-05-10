@@ -74,3 +74,9 @@ Ruby on Rails5 道場レッスンⅠ
 
 5/9<br>
 Ruby on Rails5 道場レッスンⅡ
+
+
+<br>
+
+5/10<br>
+Ruby on Rails5 IX<br>
